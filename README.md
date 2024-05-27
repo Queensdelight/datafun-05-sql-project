@@ -1,6 +1,6 @@
-# datafun-05-sql-project
+# Datafun-05-sql-project
 
-Bukola Adeniyan  May 27th, 2024
+** Bukola Adeniyan  May 27th, 2024 **
 
 ## Overview
 
